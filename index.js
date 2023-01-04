@@ -1,9 +1,7 @@
-
-
 import app from "./app";
-const {PORT} = process.env;
+const { PORT } = process.env;
 
-app.listen(PORT,(err) => {
+app.listen(PORT, (err) => {
   if (err) console.log(`Error due to ${err}`);
-  console.log(`Server started`);
+  console.log(`Server started on port ${PORT}`);
 });

@@ -11,7 +11,7 @@
   "name": "codespace-auth-23",
   "description": "An auth system totally designed by Github Codespace",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "node index.js",
   "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
