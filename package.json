@@ -1,0 +1,25 @@
+{
+  "dependencies": {
+    "yarn": "^1.22.19"
+  },
+  "name": "codespace-auth-23",
+  "description": "An auth system totally designed by Github Codespace",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gopal24-colab/codespace-auth-23.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gopal24-colab/codespace-auth-23/issues"
+  },
+  "homepage": "https://github.com/gopal24-colab/codespace-auth-23#readme"
+}
